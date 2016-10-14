@@ -1,2 +1,1 @@
-# Num_meth
-# Num_meth
+Numerical Method class
